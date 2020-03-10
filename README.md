@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<h2 align=center>胡越</h2>
+<p align=center>187-1510-4547 | 270352204@qq.com</p>
+<p align=center>微信：18715104547</p>
 
-You can use the [editor on GitHub](https://github.com/tianyagk/Aeoluze.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 个⼈信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+汉族 / 男 / 1995.11  
+硕⼠ / 西交利物浦⼤学 计算机科学与软件⼯程系 应届    （2018.9-2020.5）  
+本科 / 安徽建筑⼤学 数理学院    （2014.9-2018.7）  
 
-### Markdown
+# 专业技能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 后端框架：技术栈以Python为主，Web开发熟悉Flask/Django，桌面端熟悉PyQt
+- 服务端搭建：熟悉Linux环境，熟悉Nginx+Uwgis服务，了解Docker的搭建与部署
+- 数据库相关：MySQL/MongoDB/SQLite，摸索使用Redis作缓存  
+- 前端相关：了解Javascript（ES6）和Typescript，熟悉Bootstrap
 
-```markdown
-Syntax highlighted code block
+- 机器学习/深度学习：常⽤机器学习算法/Tensoflow与Pytorch框架  
+- 数据分析：常见的相关库如Pandas/Numpy/PyPlotly/Sklearn等，时序信号处理方法如傅里叶变换相关算法与EMD/VMD等
+- 良好的英语读写与沟通能力，可以流畅浏览英文资料和文档
 
-# Header 1
-## Header 2
-### Header 3
+# 实习经历
 
-- Bulleted
-- List
+昆仑智汇数据科技（北京）有限公司 K2DATA （ 2019年7⽉ ~ 2020年10⽉， 2020年2月至今 ）
 
-1. Numbered
-2. List
+**紫光工业云    （2020/02 至今）**  
+为工业云提供数据与信号处理模块。
 
-**Bold** and _Italic_ and `Code` text
+- 根据范例数据和文档规范撰写数据整合与预处理算法。  
+- 根据实际数据设计信号处理与振动分析相关算法模型。
 
-[Link](url) and ![Image](src)
-```
+**Hoya镜⽚良率优化项⽬    （2019/06 -- 2019/08）**  
+开发通过分析工业流程中的可优化部分，提升镜片工艺的良品率的数据工具。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 开发构架应用于工业端的数据监控与分析工具。  
+- 整合并清洗已有的局部工业数据。  
+- 建模分析各种不良品的影响要素，并优化改善工艺流程。
 
-### Jekyll Themes
+**维信诺产品良率分析与优项⽬     （2019/06 -- 2019/08）**  
+开发基于工业数据对其OLED生产线的良品率进行优化的数据工具。  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tianyagk/Aeoluze.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 从不规整的工业数据中重构并清洗有价值的相关数据并根据数据建模检测异常状况，分析不良品的出现因素并给出优化方案.  
+- 基于PyQt 与 TuriCreate 框架开发在CentOS服务器下的桌面端应用，以解决故障元件分类的图像识别工具。  
+- 基于PyQt 与 Pyecharts 构架应用于工业端的可视化的数据分析工具
 
-### Support or Contact
+# 个人项目
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**PocketTRPG在线跑团工具    （2020/02 至今）**  
+独自开发的基于Flask框架（服务端与数据库使用Nginx+Uwsgi+MySQL）的在线TRPG（桌面角色扮演游戏）工具，提供遵从Restful规范的API接口，为下一步的前后端分离开发做准备。  
+并具有一个内置骰子机器人的聊天室模式与可导入导出的在线角色卡库。同时包含一个发布公告的招募板块和分享自定义剧本的模组板块。
+
+
+项目地址 http://www.pockettrpg.cn/  
+Github  https://github.com/PocketTRPG-Dev/PocketTRPG-backend
+
+# 致谢
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
